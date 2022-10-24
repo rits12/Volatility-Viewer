@@ -1,8 +1,9 @@
 # volatility_viewer
  An interactive tool for studying recent changes in volatility regimes.
 
-**`Video Demo`**
-[YouTube](https://youtu.be/R7rCxnu68iU)
+**`Video Demo:`**
+
+* [YouTube](https://youtu.be/R7rCxnu68iU)
 
 We created **`volatility viewer`** to introduce investors to management considerations in evolving markets. Our goal is empowering individual investors to understand the role market volatility may have on investment risk-profiles.
 
@@ -22,4 +23,3 @@ We created **`volatility viewer`** to introduce investors to management consider
 * CPI: BLS
 * Federal Fund Reserve Rates: FRED
 
-Please check out our [GitHub](https://github.com/AniketPant02/volatility_viewer)! 
